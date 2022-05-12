@@ -8,6 +8,6 @@ int main()
 
 	printf("Z.Yaren Oguz,123456,SE\n");
 
-	printf("Tunahan Akhisar,987654,SE\n");
+	printf("Tunahan Akhisar,18243510035,CMPE\n");
 
 }
