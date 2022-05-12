@@ -10,4 +10,6 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
+	printf("Ömer Bahadır Kundak, 17243510020, CMPE\n");
+
 }
