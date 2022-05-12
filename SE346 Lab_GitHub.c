@@ -10,4 +10,5 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
+	printf("Kutay Akkaya, 18243510025, CMPE\n");
 }
