@@ -13,4 +13,5 @@ int main()
 	printf("Roşna Nur Sarıkaş, 18243510047, CMPE\n");
 	printf("Mehmet Önder Peker, 17243510057, CMPE\n");
 	printf("Ece Demirel,18243510017,CMPE\n");
+	printf("Altan Samet Aldeniz, 19243510015, CMPE\n");
 }
