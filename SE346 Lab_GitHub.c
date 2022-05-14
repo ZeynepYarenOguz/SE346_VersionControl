@@ -21,5 +21,8 @@ int main()
 	printf("Muammer Yiğit Yıldız 18243510062 CMPE \n");
 
 	printf("İrem Güngör  18243510008  CMPE \n");
+
+	printf("Nur Demir,18243510055,CMPE \n");
+
 	
 }
