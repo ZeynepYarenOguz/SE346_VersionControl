@@ -21,4 +21,6 @@ int main()
 =======
 	printf("Övünç Can Durukan,19243510069,CMPE\n");
 >>>>>>> 4f28fe48d5641d9c4ab7e70abeb7cc670782fc76
+
+printf("Aysu İrem Adem,18243510031,CMPE\n");
 }
