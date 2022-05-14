@@ -13,4 +13,7 @@ int main()
 	printf("Cenk Bora ERSAHIN,160302023,CMPE\n");
 
 	printf("Baha Yildirim,19243510041,CMPE\n");
+
+	printf("Ezgi Naz MERT 18243510033 CMPE \n");
+	
 }
