@@ -26,6 +26,7 @@ int main()
 	printf("Kutay Akkaya, 18243510025, CMPE");
 	printf("Aleyna KIZILTAŞ,17243610014,ISE\n");
 	printf("Kağan Gökbayrak,18243610030,ISE\n");
+	printf("Enes Furkan Akilli,18243610022,ISE\n");
 }
 
 
