@@ -10,7 +10,7 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
-	printf("Ozge Erkeskin,18243510052,CMPE\n");
+	printf("Doğan Berkay Sözer,18243510068,Computer Engineering\n");
 
 
 
