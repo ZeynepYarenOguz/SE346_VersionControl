@@ -9,4 +9,5 @@ int main()
 	printf("Z.Yaren Oguz,123456,SE\n");
 
     printf("Berna Nur UNAL,19243610040,ISE\n");
+	printf("Nazlı Melike Kurtoğlu, 18243510053, CMPE\n");
 }
