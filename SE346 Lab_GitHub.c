@@ -15,4 +15,7 @@ int main()
 	
 	printf("M.Gokalp Celik,18243610049,ISE\n");
 	printf("Rıdvan KARADOĞAN,18243610045,ISE\n");
+
+	printf("Burcu Nazli Gumusbas,18243510039,CMPE\n");
+	
 }
