@@ -25,4 +25,5 @@ int main()
 
 	printf("Naz Dumanoglu, 19243510066, CMPE\n");
 	printf("Erdem Korkmaz, 17243510019, CMPE\n");
+	printf("Muharrem Cem Kurt , 18243510021, CMPE\n");
 }
